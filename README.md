@@ -4,7 +4,3 @@ and knowledge acquired.
 ✅ Python skill
 ✅ Git
 ✅ Inglês - básico;
-
-
-
-github-contribution-grid-snake-dark.svg
