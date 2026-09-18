@@ -1,4 +1,6 @@
-## Olá, sou Jackeline Santos,
+## Jackeline Santos,
+
+**Desenvolvedora Back-end**
 
 Natural do Amazonas/Manaus, atualmente moro em São Paulo/Capital e graduada em Análise e Desenvolvimento de Sistemas (ADS) há 4 anos. Minha trajetória na tecnologia começou na Universidade Estácio, agregando com alguns cursos em tecnologias na plataforma da Udemy.Atualmente, atuo na área de Suporte de TI Nível 2, onde aplico meus conhecimentos em resolução de problemas complexos, análise de sistemas e atendimento especializado. Sigo apaixonada por tecnologia e desenvolvimento de software 👩‍💻💕.
 
