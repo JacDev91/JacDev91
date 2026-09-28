@@ -21,3 +21,9 @@ Natural do Amazonas/Manaus, atualmente moro em São Paulo/Capital e graduada em 
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+### 📊 EStatisticas
+
+| | |
+|:---|:---|
+| <img alt="GitHub Streak" height="180" src="https://streak-stats.demolab.com?user=jacdev91&theme=tokyonight&locale=en&v=1" /> | <img alt="Activity Graph" height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=jacdev91&theme=tokyo-night&bg_color=1a1b27&hide_border=true&v=1" /> |
